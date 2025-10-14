@@ -10,8 +10,8 @@ I have a strong interest in vulnerability analysis and penetration testing (Red 
 I am a dedicated and continuously learning professional in the field of cybersecurity.
 My core values are ethics, responsibility, and commitment to protecting digital information and infrastructure.
 My goal is to collaborate with organizations in building a secure and resilient digital environment — identifying risks and proposing preventive solutions that strengthen their overall security posture.
-
 I enjoy challenges and believe that every new experience is an opportunity for both technical and personal growth.
+
 ---
 
 ## Areas of Interest 
